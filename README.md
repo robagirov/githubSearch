@@ -1,5 +1,4 @@
-Github API
-
+Приложение по поиску пользователей github и детальным просмотром профилей.
 ## Available Scripts
 
 In the project directory, you can run:
